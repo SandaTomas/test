@@ -8,8 +8,18 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JTextArea;
 
+/****
+ * 
+ * @author tsanda
+ *
+ */
 public class About extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6976888078539414873L;
+	
 	private JPanel contentPane;
 
 	/**
